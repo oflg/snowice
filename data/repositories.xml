@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <repository>
+        <id>r3d100010110</id>
+        <doi>https://doi.org/10.17616/R3HP4V</doi>
+        <name>National Snow and Ice Data Center</name>
+        <link href="https://www.re3data.org/api/beta/repository/r3d100010110" rel="self" />
+    </repository>
+    <repository>
+        ...
+    </repository>
+    ...
+</list>
